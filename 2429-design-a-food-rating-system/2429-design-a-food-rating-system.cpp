@@ -1,32 +1,30 @@
 class FoodRatings {
-public:  // Store food -> {cuisine, rating}
-    unordered_map<string, pair<string, int>> foodInfo;
-    // Store cuisine -> set of (rating, food) with custom comparator
-    unordered_map<string, set<pair<int, string>>> cuisineFoods;
+public:
+
+    unordered_map<string, set<pair<int,string>>>cuisinesRating;
+    unordered_map<string,int>foodRating;
+    unordered_map<string,string>foodTocuisines;
 
     FoodRatings(vector<string>& foods, vector<string>& cuisines, vector<int>& ratings) {
-        for (int i = 0; i < foods.size(); i++) {
-            string f = foods[i];
-            string c = cuisines[i];
-            int r = ratings[i];
-            foodInfo[f] = {c, r};
-            cuisineFoods[c].insert({-r, f}); // negative rating for max-heap like behavior
+        for(int i = 0 ; i < foods.size(); i++){
+            cuisinesRating[cuisines[i]].insert({-ratings[i], foods[i]});
+            foodRating[foods[i]]=ratings[i];
+            foodTocuisines[foods[i]] = cuisines[i];
         }
     }
     
     void changeRating(string food, int newRating) {
-        auto [cuisine, oldRating] = foodInfo[food];
-        // remove old entry
-        cuisineFoods[cuisine].erase({-oldRating, food});
-        // insert new one
-        cuisineFoods[cuisine].insert({-newRating, food});
-        // update map
-        foodInfo[food].second = newRating;
+        auto &cuisine = foodTocuisines[food];
+        int oldRating = foodRating[food];
+       cuisinesRating[cuisine].erase({-oldRating,food});
+        cuisinesRating[cuisine].insert({-newRating,food});
+
+        foodRating[food]=newRating;
+        
     }
     
     string highestRated(string cuisine) {
-        // first element in set is the best food
-        return cuisineFoods[cuisine].begin()->second;
+        return (*cuisinesRating[cuisine].begin()).second;
     }
 };
 
