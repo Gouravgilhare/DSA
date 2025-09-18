@@ -32,18 +32,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Gouravgilhare/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Gouravgilhare/DSA/tree/master/3678-design-task-manager) |
 ## Design
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Gouravgilhare/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Gouravgilhare/DSA/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Gouravgilhare/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Gouravgilhare/DSA/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Gouravgilhare/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Gouravgilhare/DSA/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
 | ------- |
