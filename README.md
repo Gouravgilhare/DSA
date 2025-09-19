@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Gouravgilhare/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Gouravgilhare/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/Gouravgilhare/DSA/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -28,16 +29,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/Gouravgilhare/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/Gouravgilhare/DSA/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Gouravgilhare/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Gouravgilhare/DSA/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Gouravgilhare/DSA/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Gouravgilhare/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Gouravgilhare/DSA/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Gouravgilhare/DSA/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -52,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/Gouravgilhare/DSA/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
