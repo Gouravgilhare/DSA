@@ -1,61 +1,77 @@
+const int di[4] = {1, -1, 0, 0};
+const int dj[4] = {0, 0, 1, -1};
 class Solution {
 public:
-    int trapRainWater(vector<vector<int>>& hm) {
-        vector<vector<int>> dir= {{0, 1}, {0, -1}, {-1, 0}, {1, 0}};
-        int rows= hm.size();
-        int cols= hm[0].size();
-        vector<vector<bool>> vis(rows, vector<bool>(cols, false));
-        priority_queue<Cell> bound;
+    static unsigned pack(unsigned h, unsigned i, unsigned j) {
+        return (h << 16) | (i << 8) | j;
+    }
 
-        for(int i=0; i< rows; i++){
-            bound.push(Cell(hm[i][0], i, 0));
-            bound.push(Cell(hm[i][cols-1], i, cols-1));
-            vis[i][0]= vis[i][cols-1]= true;
+    static array<int, 3> unpack(unsigned info) {
+        array<int, 3> ans;
+        ans[0] = info >> 16, ans[1] = (info >> 8) & 255, ans[2] = info & 255;
+        return ans;
+    }
+
+    static int trapRainWater(vector<vector<int>>& height) {
+        const int m = height.size(), n = height[0].size();
+        if (m <= 2 || n <= 2)
+            return 0; // No trapped water possible
+
+        vector<unsigned> boundary(2 * (m + n - 1));
+
+        // Add boundary cells  mark  visited
+        int idx = 0;
+        for (int i = 0; i < m; i++) {
+            boundary[idx++] = pack(height[i][0], i, 0);
+            boundary[idx++] = pack(height[i][n - 1], i, n - 1);
+            height[i][0] = height[i][n - 1] = -1; // visited
         }
-        for(int i=0; i<cols; i++){
-            bound.push(Cell(hm[0][i], 0, i));
-            bound.push(Cell(hm[rows-1][i], rows-1, i));
-            vis[0][i]= vis[rows-1][i]= true;
+
+        for (int j = 1; j < n - 1; j++) {
+            boundary[idx++] = pack(height[0][j], 0, j);
+            boundary[idx++]=pack(height[m - 1][j], m - 1, j);
+            height[0][j] = height[m - 1][j] = -1; // visited
         }
 
-        int tot=0;
-        while(!bound.empty()){
-            Cell cur= bound.top();
-            bound.pop();
+        // Build a min-heap
+        make_heap(boundary.begin(), boundary.end(), greater<>());
 
-            int cr= cur.row, cc= cur.col, minh= cur.hgt;
-            for(auto d: dir){
-                int nr= cr+d[0], nc= cc+d[1];
-                if(valid(nr, nc, rows, cols) and !vis[nr][nc]){
-                    int nh= hm[nr][nc];
-                    if(nh<minh){
-                        tot+=minh-nh;
-                    }
-                    bound.push(Cell(max(nh, minh), nr, nc));
-                    vis[nr][nc]= true;
-                }
+        int ans = 0, water_level = 0;
+
+        while (!boundary.empty()) {
+            // Extract the smallest element from the heap
+            pop_heap(boundary.begin(), boundary.end(), greater<>());
+            unsigned info = boundary.back();
+            boundary.pop_back();
+
+            auto [h, i, j] = unpack(info);
+            water_level = max(water_level, h);
+
+            // Process adjacent cell
+            for (int k = 0; k < 4; k++) {
+                int i0 = i + di[k], j0 = j + dj[k];
+                if (i0 < 0 || i0 >= m || j0 < 0 || j0 >= n ||
+                    height[i0][j0] == -1)
+                    continue;
+
+                int currH = height[i0][j0];
+                if (currH < water_level)
+                    ans += water_level - currH;
+
+                // Mark the cell as visited and push it to the heap
+                height[i0][j0] = -1;
+                boundary.push_back(pack(currH, i0, j0));
+                push_heap(boundary.begin(), boundary.end(), greater<>());
             }
         }
-        return tot;
-    }
 
-    class Cell{
-    public:
-        int row;
-        int col;
-        int hgt;
-        Cell(int hgt, int row, int col){
-            this->hgt= hgt;
-            this->row= row;
-            this->col= col;
-        }
-
-        bool operator<(const Cell& other) const{
-            return hgt>=other.hgt;
-        }
-
-    };
-    bool valid(int row, int col, int rows, int cols) {
-        return row >= 0 && col >= 0 && row < rows && col < cols;
+        return ans;
     }
 };
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
