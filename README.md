@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gouravgilhare/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Gouravgilhare/DSA/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/Gouravgilhare/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Gouravgilhare/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gouravgilhare/DSA/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/0049-group-anagrams) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gouravgilhare/DSA/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Gouravgilhare/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Gouravgilhare/DSA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gouravgilhare/DSA/tree/master/0138-copy-list-with-random-pointer) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Gouravgilhare/DSA/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Gouravgilhare/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Gouravgilhare/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gouravgilhare/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Gouravgilhare/DSA/tree/master/0051-n-queens) |
