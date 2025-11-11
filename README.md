@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Gouravgilhare/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gouravgilhare/DSA/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Gouravgilhare/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Gouravgilhare/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Gouravgilhare/DSA/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Gouravgilhare/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gouravgilhare/DSA/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Gouravgilhare/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Gouravgilhare/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gouravgilhare/DSA/tree/master/0131-palindrome-partitioning) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Gouravgilhare/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
