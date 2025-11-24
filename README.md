@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Gouravgilhare/DSA/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Gouravgilhare/DSA/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gouravgilhare/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Gouravgilhare/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Gouravgilhare/DSA/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gouravgilhare/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gouravgilhare/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gouravgilhare/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Gouravgilhare/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Gouravgilhare/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gouravgilhare/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gouravgilhare/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Gouravgilhare/DSA/tree/master/0901-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gouravgilhare/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
