@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Gouravgilhare/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0513-find-bottom-left-tree-value](https://github.com/Gouravgilhare/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Gouravgilhare/DSA/tree/master/0994-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Gouravgilhare/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gouravgilhare/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0513-find-bottom-left-tree-value](https://github.com/Gouravgilhare/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gouravgilhare/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/Gouravgilhare/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -492,5 +495,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gouravgilhare/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/Gouravgilhare/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
