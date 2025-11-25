@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gouravgilhare/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Gouravgilhare/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/Gouravgilhare/DSA/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Gouravgilhare/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Gouravgilhare/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gouravgilhare/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -497,4 +499,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Gouravgilhare/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Gouravgilhare/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gouravgilhare/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gouravgilhare/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
