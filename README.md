@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Gouravgilhare/DSA/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gouravgilhare/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Gouravgilhare/DSA/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gouravgilhare/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gouravgilhare/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Gouravgilhare/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gouravgilhare/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Gouravgilhare/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Gouravgilhare/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Gouravgilhare/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -540,4 +544,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
