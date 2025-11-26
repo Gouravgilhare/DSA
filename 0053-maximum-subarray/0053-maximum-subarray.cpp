@@ -5,7 +5,7 @@ public:
         int currSum = nums[0];
         int maxSum= nums[0];
 
-
+        //kadanes Algorithm
         for(int i = 1 ; i< n ;i++){
             currSum = max(nums[i], currSum+nums[i]);
             maxSum = max(currSum, maxSum);
