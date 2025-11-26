@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gouravgilhare/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Gouravgilhare/DSA/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gouravgilhare/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Gouravgilhare/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Gouravgilhare/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gouravgilhare/DSA/tree/master/0040-combination-sum-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gouravgilhare/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gouravgilhare/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
