@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Gouravgilhare/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Gouravgilhare/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Gouravgilhare/DSA/tree/master/0724-find-pivot-index) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Gouravgilhare/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gouravgilhare/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gouravgilhare/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1612-avoid-flood-in-the-city](https://github.com/Gouravgilhare/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Gouravgilhare/DSA/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Gouravgilhare/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Gouravgilhare/DSA/tree/master/0494-target-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Gouravgilhare/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/Gouravgilhare/DSA/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Gouravgilhare/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Gouravgilhare/DSA/tree/master/0076-minimum-window-substring) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Gouravgilhare/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Gouravgilhare/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gouravgilhare/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/Gouravgilhare/DSA/tree/master/1508-longest-happy-prefix) |
 ## String Matching
 |  |
@@ -538,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/Gouravgilhare/DSA/tree/master/1508-longest-happy-prefix) |
 ## Memoization
 |  |
