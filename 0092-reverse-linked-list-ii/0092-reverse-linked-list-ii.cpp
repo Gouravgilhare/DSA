@@ -10,49 +10,36 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head,  int right, int cnt) {
-        ListNode* curr,*next,*temp,*prev=nullptr;
-        curr= head;
-        while(curr!= nullptr&&cnt!=right){
-            next= curr->next;
-            curr->next = prev;
-            prev=curr;
-            curr= next;
-            cnt++;
-        }
-
-        return prev;
-        
-    }
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         if(!head || left==right) return head;
-        int cnt= 1;
-        ListNode* temp= head;
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
-        ListNode* prev = dummy;
 
-        for(int i = 1; i<left; i++){
-            prev = prev->next;
-        }
+        ListNode dummy(0);
 
-        ListNode* curr= prev->next;
-        ListNode* next = nullptr;
-        ListNode* tail = curr;
+        dummy.next = head;
 
-        for(int i = left; i<=right; i++){
-            next= curr->next;
-            curr->next= prev->next;
-            prev->next=curr;
-            curr= next;
-        }
-
-
-        tail->next = curr;
+        ListNode* prev = &dummy;
+        // ListNode* then =prev->next;
         
-        return dummy->next;
+
+        for(int i= 0; i< left-1; i++){
+            prev =prev->next;
+        }
+        
+        ListNode* start = prev->next;
+        ListNode* then =  start->next;
+
+        // ListNode *curr= start, *next;
 
 
+        for( int i = 0; i< right-left; i++ ){
+            start->next = then->next;
+            then->next = prev->next;
+            prev->next= then;
+            then = start->next;
+        }
+
+
+        return dummy.next;
 
     }
 };
