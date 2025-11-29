@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gouravgilhare/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Gouravgilhare/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Gouravgilhare/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1856-maximum-subarray-min-product](https://github.com/Gouravgilhare/DSA/tree/master/1856-maximum-subarray-min-product) |
 | [2023-design-movie-rental-system](https://github.com/Gouravgilhare/DSA/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gouravgilhare/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Gouravgilhare/DSA/tree/master/2169-simple-bank-system) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Gouravgilhare/DSA/tree/master/0901-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gouravgilhare/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1856-maximum-subarray-min-product](https://github.com/Gouravgilhare/DSA/tree/master/1856-maximum-subarray-min-product) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Gouravgilhare/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Gouravgilhare/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Gouravgilhare/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Gouravgilhare/DSA/tree/master/0724-find-pivot-index) |
+| [1856-maximum-subarray-min-product](https://github.com/Gouravgilhare/DSA/tree/master/1856-maximum-subarray-min-product) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Gouravgilhare/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Gouravgilhare/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Gouravgilhare/DSA/tree/master/2625-increment-submatrices-by-one) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Gouravgilhare/DSA/tree/master/0901-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gouravgilhare/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1856-maximum-subarray-min-product](https://github.com/Gouravgilhare/DSA/tree/master/1856-maximum-subarray-min-product) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Gouravgilhare/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
 |  |
