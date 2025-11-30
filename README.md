@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Gouravgilhare/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Gouravgilhare/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/Gouravgilhare/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Gouravgilhare/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gouravgilhare/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Gouravgilhare/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gouravgilhare/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1590-make-sum-divisible-by-p](https://github.com/Gouravgilhare/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Gouravgilhare/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Gouravgilhare/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2023-design-movie-rental-system](https://github.com/Gouravgilhare/DSA/tree/master/2023-design-movie-rental-system) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Gouravgilhare/DSA/tree/master/0724-find-pivot-index) |
+| [1590-make-sum-divisible-by-p](https://github.com/Gouravgilhare/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1856-maximum-subarray-min-product](https://github.com/Gouravgilhare/DSA/tree/master/1856-maximum-subarray-min-product) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Gouravgilhare/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Gouravgilhare/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
