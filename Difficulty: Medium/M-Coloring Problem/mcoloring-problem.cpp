@@ -1,47 +1,55 @@
 class Solution {
   public:
-   bool isSafe(int node, int col, vector<int>& color, vector<vector<int>>& adj) {
-        for (int neighbor : adj[node]) {
-            if (color[neighbor] == col) 
-                return false;
+    bool isSafe(vector<vector<int>>&adj, int color,vector<int>&colors, int node){
+        int n = adj[node].size();
+        
+            
+        for(auto a : adj[node]){
+            if(color == colors[a])return false;
         }
+        
         return true;
     }
-    bool magic(int node, int v, int m, vector<int>&color, vector<vector<int>>&adj){
+
+    bool helper(int node, vector<int> &colors, int m ,vector<vector<int>>&adj){
         
-        
-        if(node == v) return true;
-        
-        for(int i = 1 ; i<= m; i++){
-         
-            
-            if(isSafe(node, i, color,adj)){
-                color[node] = i ;
-                
-                if(magic(node+1, v, m, color, adj))
+       int n = adj.size();
+       
+       if(node == n)return true;
+       
+       
+       for(int i = 1 ; i<=m ; i++ ){
+           
+           if(isSafe(adj, i, colors,node)){
+               colors[node]= i;
+               
+               if(helper(node+1, colors,m,adj))
                     return true;
-                color[node]=0;
-            }
-            
-        }
-        return false;
+                
+                colors[node]=-1;
+           }
+       }
+       
+       
+       return false;
         
         
     }
+  public:
     bool graphColoring(int v, vector<vector<int>> &edges, int m) {
         // code here
+
         vector<vector<int>>adj(v);
         
-        for(int i = 0 ; i< edges.size(); i++){
-            int u = edges[i][0];
-            int w = edges[i][1];
+        for(auto edge : edges){
+            int u = edge[0];
+            int w = edge[1];
             adj[u].push_back(w);
             adj[w].push_back(u);
         }
         
-        vector<int>color(v,0);
+        vector<int>colors(v,-1);
         
-        return magic(0, v,  m, color, adj);
-        
+        return helper(0, colors, m ,adj);
     }
 };
