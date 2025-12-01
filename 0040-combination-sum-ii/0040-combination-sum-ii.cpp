@@ -1,30 +1,34 @@
 class Solution {
 public:
+    vector<vector<int>>ans;
+    vector<int>temp;
+    void helper(vector<int>&candidates, int target, int index,int sum){
+        int n =  candidates.size();
+        // if(index == n) return;
+        if(target == sum) {
+            ans.push_back(temp);
+            return ;
+        }    
 
-    void combSum(int i, vector<int>&arr, vector<int>&com, vector<vector<int>>&ans, int target){
-        if(target == 0) {
-            ans.push_back(com);
-            return;
+        if(sum > target) return;
+
+        for(int i = index; i<n ;i++){
+
+            if(i>index && candidates[i]== candidates[i-1]) continue;
+            temp.push_back(candidates[i]); 
+            helper(candidates,target, i+1, sum+candidates[i]);
+            temp.pop_back();
+            // helper(candidates,target, index+1, sum);
+
         }
 
-        if(i == arr.size() || target < 0) return;
 
-        com.push_back(arr[i]);
-        combSum(i+1, arr, com, ans, target-arr[i]);
+        return ;    
 
-        com.pop_back();
-        int next = i+1;
-        while(next<arr.size() && arr[next]==arr[i])next++;
-        combSum(next, arr, com, ans, target);
     }
-
-    vector<vector<int>> combinationSum2(vector<int>& arr, int target) {
-        vector<vector<int>>ans;
-        vector<int>com;
-
-        sort(arr.begin(), arr.end());
-
-        combSum(0,arr, com, ans, target);
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target){
+        sort(candidates.begin(), candidates.end());
+        helper(candidates, target, 0,0);
 
         return ans;
     }
