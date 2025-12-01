@@ -1,34 +1,48 @@
 class Solution {
 public:
-    bool isPalin(string s, int i, int j){
-        while(i<j){
-            if(s[i++]!=s[j--])return false;
+    vector<string>temp;
+    vector<vector<string>>ans;
+
+    bool isPalin(string s){
+        int n = s.size();
+
+        int left =0; 
+        int right =n-1;
+
+        while(left<right){
+            if(s[left]!=s[right])return false;
+            left++;
+            right--;
         }
 
         return true;
     }
-    void palin(int i,vector<string>&ss, string s,  vector<vector<string>>&ans){
-        if(i==s.size()) {
-            ans.push_back(ss);
+
+
+    void helper(string s, int index){
+        int n = s.size();
+        if(index== n) {
+            ans.push_back(temp);
             return;
         }
-        
-        for(int j = i ; j<s.size();++j){
-            if(isPalin(s, i, j)){
-                ss.push_back(s.substr(i, j-i+1));
-                palin(j+1,ss,s,ans);
-                ss.pop_back();
+
+        string t ="";
+       for(int i = index; i< n; i++){
+            t += s[i];
+
+            if(isPalin(t)){
+                temp.push_back(t);
+                helper(s,i+1);
+                temp.pop_back();            
             }
-        }
 
+       }
+
+    
     }
-
     vector<vector<string>> partition(string s) {
-        vector<vector<string>>ans;
-        vector<string>ss;
+         helper(s,0);
 
-        palin(0,ss,s,ans);
-
-        return ans;
+         return ans;
     }
 };
