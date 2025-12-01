@@ -1,46 +1,53 @@
 class Solution {
 public:
-    bool isSafe(vector<vector<int>>& maze, int i, int j, vector<vector<int>>& vis) {
+    vector<string> ans;
+
+    bool isSafe(vector<vector<int>>& maze, int r, int c, vector<vector<int>>& vis) {
         int n = maze.size();
-        return (i >= 0 && j >= 0 && i < n && j < n && maze[i][j] == 1 && vis[i][j] == 0);
+        return (r >= 0 && r < n && c >= 0 && c < n &&
+                maze[r][c] == 1 && vis[r][c] == 0);
     }
 
-    void Maze(int n, vector<string>& ans, vector<vector<int>>& vis, string path,
-              vector<vector<int>>& maze, int i, int j) {
-        if (i == n - 1 && j == n - 1) {
+    void solve(vector<vector<int>>& maze, int r, int c,
+               vector<vector<int>>& vis, string path) {
+
+        int n = maze.size();
+
+        // Reached destination
+        if (r == n - 1 && c == n - 1) {
             ans.push_back(path);
             return;
         }
 
-        vis[i][j] = 1;
+        vis[r][c] = 1;
 
-        // ↓ Down
-        if (isSafe(maze, i + 1, j, vis))
-            Maze(n, ans, vis, path + 'D', maze, i + 1, j);
+        // Down
+        if (isSafe(maze, r + 1, c, vis))
+            solve(maze, r + 1, c, vis, path + 'D');
 
-        // ← Left
-        if (isSafe(maze, i, j - 1, vis))
-            Maze(n, ans, vis, path + 'L', maze, i, j - 1);
+        // Left
+        if (isSafe(maze, r, c - 1, vis))
+            solve(maze, r, c - 1, vis, path + 'L');
 
-        // → Right
-        if (isSafe(maze, i, j + 1, vis))
-            Maze(n, ans, vis, path + 'R', maze, i, j + 1);
+        // Right
+        if (isSafe(maze, r, c + 1, vis))
+            solve(maze, r, c + 1, vis, path + 'R');
 
-        // ↑ Up
-        if (isSafe(maze, i - 1, j, vis))
-            Maze(n, ans, vis, path + 'U', maze, i - 1, j);
+        // Up
+        if (isSafe(maze, r - 1, c, vis))
+            solve(maze, r - 1, c, vis, path + 'U');
 
-        vis[i][j] = 0; // backtrack
+        vis[r][c] = 0; // backtrack
     }
 
     vector<string> ratInMaze(vector<vector<int>>& maze) {
-        vector<string> ans;
         int n = maze.size();
         vector<vector<int>> vis(n, vector<int>(n, 0));
 
-        if (maze[0][0] == 0) return ans;
+        if (maze[0][0] == 0) return {}; // no path possible
 
-        Maze(n, ans, vis, "", maze, 0, 0);
+        solve(maze, 0, 0, vis, "");
+
         return ans;
     }
 };
