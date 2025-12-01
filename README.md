@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Gouravgilhare/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gouravgilhare/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Gouravgilhare/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gouravgilhare/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Gouravgilhare/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Gouravgilhare/DSA/tree/master/0493-reverse-pairs) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Gouravgilhare/DSA/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
