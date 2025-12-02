@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Gouravgilhare/DSA/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Gouravgilhare/DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Gouravgilhare/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Gouravgilhare/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Gouravgilhare/DSA/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Gouravgilhare/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Gouravgilhare/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Gouravgilhare/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Gouravgilhare/DSA/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gouravgilhare/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gouravgilhare/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Gouravgilhare/DSA/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/Gouravgilhare/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Gouravgilhare/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gouravgilhare/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Gouravgilhare/DSA/tree/master/0494-target-sum) |
