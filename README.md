@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Gouravgilhare/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Gouravgilhare/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Gouravgilhare/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Gouravgilhare/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Gouravgilhare/DSA/tree/master/0724-find-pivot-index) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Gouravgilhare/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gouravgilhare/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Gouravgilhare/DSA/tree/master/0494-target-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Gouravgilhare/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Gouravgilhare/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/Gouravgilhare/DSA/tree/master/1143-longest-common-subsequence) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gouravgilhare/DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Gouravgilhare/DSA/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Gouravgilhare/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Gouravgilhare/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Gouravgilhare/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Gouravgilhare/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Gouravgilhare/DSA/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Gouravgilhare/DSA/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Gouravgilhare/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Gouravgilhare/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Gouravgilhare/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Gouravgilhare/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
