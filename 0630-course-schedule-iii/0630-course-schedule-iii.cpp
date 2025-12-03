@@ -27,10 +27,6 @@ public:
 
         return maxHeap.size();
 
-        while(!maxHeap.empty()){
-
-        }
-
 
     }
 };
