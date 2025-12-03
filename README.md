@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Gouravgilhare/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Gouravgilhare/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
+| [0630-course-schedule-iii](https://github.com/Gouravgilhare/DSA/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gouravgilhare/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Gouravgilhare/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gouravgilhare/DSA/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0630-course-schedule-iii](https://github.com/Gouravgilhare/DSA/tree/master/0630-course-schedule-iii) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Gouravgilhare/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/Gouravgilhare/DSA/tree/master/2023-design-movie-rental-system) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gouravgilhare/DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Gouravgilhare/DSA/tree/master/0455-assign-cookies) |
+| [0630-course-schedule-iii](https://github.com/Gouravgilhare/DSA/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gouravgilhare/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Gouravgilhare/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Gouravgilhare/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Gouravgilhare/DSA/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Gouravgilhare/DSA/tree/master/0455-assign-cookies) |
+| [0630-course-schedule-iii](https://github.com/Gouravgilhare/DSA/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gouravgilhare/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Gouravgilhare/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Gouravgilhare/DSA/tree/master/1018-largest-perimeter-triangle) |
