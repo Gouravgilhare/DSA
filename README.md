@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Gouravgilhare/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Gouravgilhare/DSA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Gouravgilhare/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Gouravgilhare/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Gouravgilhare/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Gouravgilhare/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gouravgilhare/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Gouravgilhare/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Gouravgilhare/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gouravgilhare/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gouravgilhare/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
