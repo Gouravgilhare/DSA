@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gouravgilhare/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gouravgilhare/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Gouravgilhare/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Gouravgilhare/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Gouravgilhare/DSA/tree/master/0072-edit-distance) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Gouravgilhare/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gouravgilhare/DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Gouravgilhare/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Gouravgilhare/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Gouravgilhare/DSA/tree/master/0115-distinct-subsequences) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gouravgilhare/DSA/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Gouravgilhare/DSA/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Gouravgilhare/DSA/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Gouravgilhare/DSA/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gouravgilhare/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gouravgilhare/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gouravgilhare/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gouravgilhare/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Gouravgilhare/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Gouravgilhare/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0234-palindrome-linked-list) |
