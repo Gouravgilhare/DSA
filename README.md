@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gouravgilhare/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Gouravgilhare/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Gouravgilhare/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3433-count-mentions-per-user](https://github.com/Gouravgilhare/DSA/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Gouravgilhare/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Gouravgilhare/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Gouravgilhare/DSA/tree/master/3531-count-covered-buildings) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gouravgilhare/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gouravgilhare/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/Gouravgilhare/DSA/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/Gouravgilhare/DSA/tree/master/3433-count-mentions-per-user) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Gouravgilhare/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Gouravgilhare/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gouravgilhare/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Gouravgilhare/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Gouravgilhare/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Gouravgilhare/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3433-count-mentions-per-user](https://github.com/Gouravgilhare/DSA/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Gouravgilhare/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/Gouravgilhare/DSA/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Gouravgilhare/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Gouravgilhare/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/Gouravgilhare/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3336-water-bottles-ii](https://github.com/Gouravgilhare/DSA/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/Gouravgilhare/DSA/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Gouravgilhare/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Gouravgilhare/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Gouravgilhare/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
