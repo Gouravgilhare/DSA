@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Gouravgilhare/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Gouravgilhare/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Gouravgilhare/DSA/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Gouravgilhare/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Gouravgilhare/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Gouravgilhare/DSA/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gouravgilhare/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Gouravgilhare/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Gouravgilhare/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Gouravgilhare/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Gouravgilhare/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Gouravgilhare/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Geometry
 |  |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gouravgilhare/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Gouravgilhare/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/Gouravgilhare/DSA/tree/master/2596-check-knight-tour-configuration) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Gouravgilhare/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Gouravgilhare/DSA/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gouravgilhare/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gouravgilhare/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Gouravgilhare/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
