@@ -1,39 +1,49 @@
 class Solution {
 public:
+    void bfs(int i, int j, vector<vector<char>>& grid, vector<vector<int>>& vis) {
+        int n = grid.size();
+        int m = grid[0].size();
 
-    void  dfs (int row, int col, vector<vector<char>>& grid, vector<vector<bool>>&vis){
-        int n = grid.size(), m = grid[0].size();
+        queue<pair<int,int>> q;
+        q.push({i, j});
+        vis[i][j] = 1;
 
-        if(row<0 || row >= n || col<0 || col>=m || grid[row][col]!='1' ) return ;
-        if(vis[row][col])return ;
+        int dx[4] = {1, -1, 0, 0};
+        int dy[4] = {0, 0, 1, -1};
 
-        vis[row][col]=true;
-       
-       
-        dfs(row+1, col, grid,vis);
-        dfs(row, col+1, grid,vis);
-        dfs(row-1, col, grid,vis);
-        dfs(row, col-1, grid,vis);
-      
+        while (!q.empty()) {
+            auto [row, col] = q.front();
+            q.pop();
 
+            for (int k = 0; k < 4; k++) {
+                int nr = row + dx[k];
+                int nc = col + dy[k];
 
-    }
-    int numIslands(vector<vector<char>>& grid) {
-        int n = grid.size(), m = grid[0].size();
+                if (nr >= 0 && nr < n && nc >= 0 && nc < m &&
+                    !vis[nr][nc] && grid[nr][nc] == '1') {
 
-        vector<vector<bool>>vis(n,vector<bool>(m,false));
-
-        int cnt=0;
-        for(int i = 0 ; i< n ; i++){
-            for(int j = 0 ; j< m ; j++){
-                if(grid[i][j]=='1' && !vis[i][j]){
-
-                dfs(i,j,grid,vis);
-                cnt++;
+                    vis[nr][nc] = 1;   // mark HERE
+                    q.push({nr, nc});
                 }
             }
         }
+    }
 
-            return cnt;
-    }   
+    int numIslands(vector<vector<char>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+        int cnt = 0;
+
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (!vis[i][j] && grid[i][j] == '1') {
+                    bfs(i, j, grid, vis);
+                    cnt++;
+                }
+            }
+        }
+        return cnt;
+    }
 };
