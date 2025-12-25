@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Gouravgilhare/DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
+| [0802-find-eventual-safe-states](https://github.com/Gouravgilhare/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Gouravgilhare/DSA/tree/master/0994-rotting-oranges) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gouravgilhare/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Gouravgilhare/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Gouravgilhare/DSA/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
+| [0802-find-eventual-safe-states](https://github.com/Gouravgilhare/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gouravgilhare/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gouravgilhare/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Gouravgilhare/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Gouravgilhare/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gouravgilhare/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Gouravgilhare/DSA/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Gouravgilhare/DSA/tree/master/0802-find-eventual-safe-states) |
 | [2092-find-all-people-with-secret](https://github.com/Gouravgilhare/DSA/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Gouravgilhare/DSA/tree/master/3863-power-grid-maintenance) |
 ## Queue
@@ -807,4 +810,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Gouravgilhare/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gouravgilhare/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Gouravgilhare/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
