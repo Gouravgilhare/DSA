@@ -28,23 +28,38 @@ class Solution {
     vector<int> safeNodes(int V, vector<vector<int>>& edges) {
         // Code here
         vvi adj(V);
-        vi path(V), vis(V),check(V), safeNodes;
-        
+        vi safeNodes;
+        vi indegree(V,0);
         for(auto &e : edges){
             int u = e[0];
             int v = e[1];
-            adj[u].push_back(v);
+            adj[v].push_back(u);
+            indegree[u]++;
+            
         }
-        
+        queue<int>q;
         for(int i =0 ; i< V; i++){
-            if(!vis[i]){
-                dfs(i,adj,vis,path,check);
+            if(indegree[i]==0){
+                q.push(i);
             }
         }
         
-        for(int i= 0 ; i<V; i++){
-            if(check[i]==1)safeNodes.push_back(i);
+        while(!q.empty()){
+            int node  =q.front();
+            q.pop();
+            safeNodes.push_back(node);
+            
+            for(auto &a : adj[node]){
+                indegree[a]--;
+                if(indegree[a]==0)q.push(a);
+            }
         }
+        
+        sort(safeNodes.begin(),safeNodes.end());
+        
+        // for(int i= 0 ; i<V; i++){
+        //     if(check[i]==1)safeNodes.push_back(i);
+        // }
         
         return safeNodes;
     }
