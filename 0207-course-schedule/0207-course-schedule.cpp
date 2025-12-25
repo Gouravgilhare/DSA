@@ -1,45 +1,34 @@
+#define vi vector<int>
+#define vvi vector<vector<int>>
+
 class Solution {
 public:
-    bool canFinish(int nC, vector<vector<int>>& p) {
-        int n = nC;
-
-        vector<vector<int>>adj(n);
-
-        vector<int>indegree(n);
-        for(int i=0 ; i< p.size() ; i++){
-            int a= p[i][0];
-            int b= p[i][1];
-            adj[b].push_back(a);
-            indegree[a]++;
-            // adj[a].push_back(b);
-        }   
-
-
+    bool canFinish(int N, vector<vector<int>>& p) {
+        vvi adj(N);
+         vi indegree(N);
+        
+        for(auto &it : p ){
+            adj[it[0]].push_back(it[1]);
+            indegree[it[1]]++;
+        }
         queue<int>q;
-        for(int i = 0 ; i<n ;i++){
-            if(indegree[i]==0){
+        for(int i=0; i<N; i++){
+            if(indegree[i]==0)
                 q.push(i);
-            }
         }
-
-        int cnt = 0;
-
+        
+        vi topo;
         while(!q.empty()){
-            int node = q.front();
+            int node  =q.front();
             q.pop();
-
-            cnt++;
-
-            for(auto next : adj[node]){
-                indegree[next]--;
-                if(indegree[next]==0){
-                    q.push(next);
-                }
+            topo.push_back(node);
+            for(auto &a: adj[node]){
+                indegree[a]--;
+                if(indegree[a]==0)
+                    q.push(a);
             }
-
-
         }
-
-        return cnt==n;
+        
+        return (topo.size()==N);
     }
 };
