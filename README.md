@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Gouravgilhare/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gouravgilhare/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0756-pyramid-transition-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Gouravgilhare/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Gouravgilhare/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Gouravgilhare/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gouravgilhare/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0756-pyramid-transition-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gouravgilhare/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/Gouravgilhare/DSA/tree/master/1590-make-sum-divisible-by-p) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Gouravgilhare/DSA/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Gouravgilhare/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Gouravgilhare/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0756-pyramid-transition-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Gouravgilhare/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gouravgilhare/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Gouravgilhare/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Gouravgilhare/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gouravgilhare/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Gouravgilhare/DSA/tree/master/0494-target-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Gouravgilhare/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Gouravgilhare/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Stack
