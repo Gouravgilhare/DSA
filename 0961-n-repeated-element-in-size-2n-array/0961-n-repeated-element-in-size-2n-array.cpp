@@ -4,20 +4,12 @@ public:
         unordered_map<int,int>mp;
         int n = nums.size();
 
-        for(auto a : nums){
-            mp[a]++;
-        }
-        int maxEle = INT_MIN;
-        int curr = 0;
-
-        for(auto it = mp.begin(); it!= mp.end(); it++){
-            if(it->second > maxEle){
-                maxEle = it->second;
-                curr=it->first;
-            }
+        for(int i= 0 ; i< n-2 ; i++){
+            if(nums[i]==nums[i+1] || nums[i]==nums[i+2])
+                return nums[i];
         }
 
-        return curr;
+        return nums[n-1];
 
     }
 };
