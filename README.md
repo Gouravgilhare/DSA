@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Gouravgilhare/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Gouravgilhare/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gouravgilhare/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Gouravgilhare/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gouravgilhare/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Gouravgilhare/DSA/tree/master/1390-four-divisors) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Gouravgilhare/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Gouravgilhare/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gouravgilhare/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gouravgilhare/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1612-avoid-flood-in-the-city](https://github.com/Gouravgilhare/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/Gouravgilhare/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Gouravgilhare/DSA/tree/master/0994-rotting-oranges) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Gouravgilhare/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gouravgilhare/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/Gouravgilhare/DSA/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Gouravgilhare/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Gouravgilhare/DSA/tree/master/0724-find-pivot-index) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Gouravgilhare/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Gouravgilhare/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1856-maximum-subarray-min-product](https://github.com/Gouravgilhare/DSA/tree/master/1856-maximum-subarray-min-product) |
 | [1895-largest-magic-square](https://github.com/Gouravgilhare/DSA/tree/master/1895-largest-magic-square) |
