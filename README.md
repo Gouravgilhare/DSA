@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Gouravgilhare/DSA/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/Gouravgilhare/DSA/tree/master/0630-course-schedule-iii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Gouravgilhare/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/Gouravgilhare/DSA/tree/master/2023-design-movie-rental-system) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Gouravgilhare/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gouravgilhare/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Gouravgilhare/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Gouravgilhare/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Gouravgilhare/DSA/tree/master/1043-partition-array-for-maximum-sum) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gouravgilhare/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Gouravgilhare/DSA/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Gouravgilhare/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gouravgilhare/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Gouravgilhare/DSA/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Gouravgilhare/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gouravgilhare/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -944,11 +948,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Gouravgilhare/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Gouravgilhare/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Gouravgilhare/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Gouravgilhare/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
