@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Gouravgilhare/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gouravgilhare/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0208-implement-trie-prefix-tree](https://github.com/Gouravgilhare/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Gouravgilhare/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gouravgilhare/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Gouravgilhare/DSA/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gouravgilhare/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Gouravgilhare/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Gouravgilhare/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Gouravgilhare/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Gouravgilhare/DSA/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Gouravgilhare/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Gouravgilhare/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gouravgilhare/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Gouravgilhare/DSA/tree/master/0901-online-stock-span) |
@@ -962,5 +965,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Gouravgilhare/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Gouravgilhare/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
