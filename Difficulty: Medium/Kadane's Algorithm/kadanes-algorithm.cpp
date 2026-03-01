@@ -3,15 +3,16 @@ class Solution {
     int maxSubarraySum(vector<int> &arr) {
         // Code here
         int n =arr.size();
-        int sum = 0;
-        int max_sum = INT_MIN;
-        for(int i =0 ; i< n ; i++){
-             sum = max(arr[i], sum+arr[i]);
-             max_sum = max(sum, max_sum);
+        
+        int sum = arr[0] ; 
+        int maxSum = arr[0];
+        
+        for(int i = 1; i<n ;i++){
+            sum = max(arr[i] , sum + arr[i] );
+            maxSum = max(maxSum , sum);
         }
         
         
-        return max_sum;
-        
+        return maxSum;
     }
 };
