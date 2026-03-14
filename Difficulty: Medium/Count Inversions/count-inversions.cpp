@@ -1,57 +1,64 @@
 class Solution {
   public:
-  
-    int merge(vector<int>&arr, int start , int mid, int end){
-        vector<int>temp;
-        int cnt = 0;
-        int i = start, j = mid+1;
-        
-        while(i<=mid && j<= end){
-            if(arr[i]<=arr[j]){
-                temp.push_back(arr[i]);
-                i++;
-            }else{
-                temp.push_back(arr[j]);
-                j++;
-                cnt += (mid-i)+1;
-            }
+    
+    int merge(vector<int>&arr, int p, int q, int r ){
+
+    vector<int> temp;
+    int left = p;
+    int right = q + 1;
+
+    int cnt = 0;
+
+    while(left <= q && right <= r){
+
+        if(arr[left] <= arr[right]){
+            temp.push_back(arr[left]);
+            left++;
+        }
+        else{
+            temp.push_back(arr[right]);
+            cnt += (q - left + 1);
+            right++;
+        }
+    }
+
+    while(left <= q){
+        temp.push_back(arr[left]);
+        left++;
+    }
+
+    while(right <= r){
+        temp.push_back(arr[right]);
+        right++;
+    }
+
+    for(int i = 0; i < temp.size(); i++){
+        arr[p + i] = temp[i];
+    }
+
+    return cnt;
+}
+    
+    int mergeSort(vector<int>&arr, int p, int r ){
+    
+        int cnt =0;
+        if(p<r){
+            int q = (p+r)/2;
+            cnt += mergeSort(arr,p,q);
+            cnt += mergeSort(arr,q+1,r);
+            cnt += merge(arr,p,q,r);
         }
         
-        while(i<=mid){
-            temp.push_back(arr[i]);
-            i++;
-        }
-        while(j<=end){
-            temp.push_back(arr[j]);
-            j++;
-        }
-        
-        for(int idx = 0;idx<temp.size(); idx++){
-             arr[start +idx] = temp[idx];
-        }
         
         return cnt;
     }
-  
-    int mergeSort(vector<int>&arr, int start, int end){
-        if(start<end){
-            int mid = start + (end-start)/2;
-            
-            int startInvert = mergeSort(arr, start, mid);
-            int endInvert = mergeSort(arr, mid+1, end);
-            int current = merge(arr,start, mid, end);
-            
-            return startInvert + endInvert + current;
-        }
-        
-        return 0;
-    
-    }
-  
     int inversionCount(vector<int> &arr) {
         // Code Here
-        int s =0, end = arr.size()-1;
+        int n =arr.size();
         
-    return mergeSort(arr,s,end);
+        int cnt = 0 ; 
+        
+    return   mergeSort(arr, 0 , n-1);
+        // return cnt;
     }
 };
