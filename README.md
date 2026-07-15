@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gouravgilhare/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravgilhare/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Gouravgilhare/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Gouravgilhare/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Gouravgilhare/DSA/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gouravgilhare/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Gouravgilhare/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravgilhare/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Gouravgilhare/DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Gouravgilhare/DSA/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Gouravgilhare/DSA/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gouravgilhare/DSA/tree/master/0646-maximum-length-of-pair-chain) |
