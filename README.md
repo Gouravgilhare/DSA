@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Gouravgilhare/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/Gouravgilhare/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Gouravgilhare/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Gouravgilhare/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Gouravgilhare/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gouravgilhare/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Gouravgilhare/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Gouravgilhare/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gouravgilhare/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Gouravgilhare/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Gouravgilhare/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gouravgilhare/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Gouravgilhare/DSA/tree/master/1390-four-divisors) |
 | [1447-simplified-fractions](https://github.com/Gouravgilhare/DSA/tree/master/1447-simplified-fractions) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Gouravgilhare/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/Gouravgilhare/DSA/tree/master/1447-simplified-fractions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Gouravgilhare/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Gouravgilhare/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
