@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Gouravgilhare/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Gouravgilhare/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Gouravgilhare/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Gouravgilhare/DSA/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Gouravgilhare/DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Gouravgilhare/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Gouravgilhare/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Gouravgilhare/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gouravgilhare/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Gouravgilhare/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
