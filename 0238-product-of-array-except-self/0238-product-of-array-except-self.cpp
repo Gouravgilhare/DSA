@@ -2,29 +2,22 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
-        int prod = 1;
-        int cnt = 0;
-
-        for(auto a : nums){
-            if(a ==0) cnt++;
-            else prod *= a;
+        vector<int>arr;
+        arr.push_back(1);
+        //prefixx
+        for(int i = 1 ; i < n ;  i++){
+            arr.push_back(arr[i-1] * nums[i-1]);
         }
 
-        vector<int>arr;
-        for(auto a : nums){
-            if(a == 0  && cnt > 1){
-                arr.push_back(0);
-            }else if(a== 0 && cnt == 1){
-                arr.push_back(prod);
-            }
-            else if(a!=0 && cnt > 0) {
-                arr.push_back(0);
-            }else{
-                arr.push_back(prod/a);
-            }
+        //suffixx
+        int suff = 1;
+        for(int i = n-2 ; i >=0 ; i--){
+            suff *= nums[i+1];
+            arr[i] = arr[i] *suff;
         }
 
 
         return arr;
+
     }
 };
