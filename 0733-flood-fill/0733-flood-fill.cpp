@@ -1,33 +1,35 @@
 class Solution {
-    private:
-    void dfs(vector<vector<int>>& image, int sr, int sc, int color, int iniColor, vector<vector<int>>&ans){
-            int n = image.size(), m = image[0].size();
-        ans[sr][sc] = color;
-        int dx[4] = {1,-1, 0,0};
-        int dy[4] = {0,0, 1,-1};
-        
-        
-        for(int k = 0; k < 4; k++){
-            int nr = sr+dx[k];
-            int nc = sc+dy[k];
-            if(nr>= 0 && nr < n && nc >= 0 && nc < m && ans[nr][nc]==iniColor){
-                dfs(image, nr,nc,color,iniColor, ans);
-            }
-        }
-
-
-
-    }
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color){
+    void helper(vector<vector<int>>& image, int sr, int sc, int color) {
+        int n = image.size();
+        int m = image[0].size();
 
-        int iniColor = image[sr][sc];
-            int n = image.size(), m = image[0].size();
-        if(iniColor == color) return image;
-        
-        vector<vector<int>>ans = image;
-        dfs(image, sr,sc,color, iniColor, ans);
+        queue<pair<int,int>>q;
+        q.push({sr,sc});
+        int original = image[sr][sc];
+        if(original == color)return;
+        image[sr][sc] = color;
 
-        return ans;
+        int dx[] ={1,-1,0,0};
+        int dy[] ={0,0,-1,1};
+        while(!q.empty()){
+            auto [row, col] = q.front();
+            q.pop();
+
+            for(int i = 0; i<4; i++){
+                int nr = row+dx[i];
+                int nc = col+dy[i];
+
+                if(nr >-1 && nr< n && nc>-1 && nc<m && image[nr][nc]==original){
+                    image[nr][nc]=color;
+                    q.push({nr,nc});
+                }
+            }
+        } 
+        return;
+    }
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        helper(image, sr,sc,color);
+        return image;
     }
 };
