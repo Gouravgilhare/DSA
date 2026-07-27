@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Gouravgilhare/DSA/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/Gouravgilhare/DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gouravgilhare/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0258-add-digits](https://github.com/Gouravgilhare/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Gouravgilhare/DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Gouravgilhare/DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Gouravgilhare/DSA/tree/master/0326-power-of-three) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Gouravgilhare/DSA/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Gouravgilhare/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/Gouravgilhare/DSA/tree/master/1447-simplified-fractions) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Gouravgilhare/DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gouravgilhare/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Gouravgilhare/DSA/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/Gouravgilhare/DSA/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Gouravgilhare/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gouravgilhare/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
