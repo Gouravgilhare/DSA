@@ -1,37 +1,31 @@
 class Solution {
 public:
     int bestClosingTime(string customers) {
-        int curPenalty = 0;
-        for (int i = 0; i < customers.size(); ++i) {
-            if (customers[i] == 'Y') {
-                curPenalty++;
+        int n = customers.size();
+        int currPenalty = 0;
+        for(int i =0 ; i< n ; i++){
+            if(customers[i]== 'Y'){
+                currPenalty++;
             }
         }
 
-        // Start with closing at hour 0, the penalty equals all 'Y' in closed
-        // hours.
-        int minPenalty = curPenalty;
+
+        int minPenalty = currPenalty;
         int earliestHour = 0;
 
-        for (int i = 0; i < customers.size(); ++i) {
+        for(int i =0 ; i< n ; i++){
             char ch = customers[i];
 
-            // If status in hour i is 'Y', moving it to open hours decrement
-            // penalty by 1. Otherwise, moving 'N' to open hours increment
-            // penalty by 1.
-            if (ch == 'Y') {
-                curPenalty--;
-            } else {
-                curPenalty++;
-            }
+            if(ch == 'Y') currPenalty--;
+            else currPenalty++;
 
-            // Update earliestHour if a smaller penalty is encountered.
-            if (curPenalty < minPenalty) {
-                earliestHour = i + 1;
-                minPenalty = curPenalty;
+            if(currPenalty < minPenalty){
+                earliestHour = i+1;
+                minPenalty = currPenalty;
             }
         }
-
+    
+    
         return earliestHour;
     }
 };
