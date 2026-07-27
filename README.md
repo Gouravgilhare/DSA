@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Gouravgilhare/DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Gouravgilhare/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Gouravgilhare/DSA/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Gouravgilhare/DSA/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gouravgilhare/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gouravgilhare/DSA/tree/master/0162-find-peak-element) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gouravgilhare/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Gouravgilhare/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Gouravgilhare/DSA/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/Gouravgilhare/DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gouravgilhare/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0263-ugly-number](https://github.com/Gouravgilhare/DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Gouravgilhare/DSA/tree/master/0319-bulb-switcher) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Gouravgilhare/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gouravgilhare/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Gouravgilhare/DSA/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Gouravgilhare/DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gouravgilhare/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gouravgilhare/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Gouravgilhare/DSA/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/Gouravgilhare/DSA/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/Gouravgilhare/DSA/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gouravgilhare/DSA/tree/master/1266-minimum-time-visiting-all-points) |
