@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Gouravgilhare/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Gouravgilhare/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Gouravgilhare/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Gouravgilhare/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Gouravgilhare/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Gouravgilhare/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gouravgilhare/DSA/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Gouravgilhare/DSA/tree/master/0463-island-perimeter) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Gouravgilhare/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Gouravgilhare/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Gouravgilhare/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Gouravgilhare/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/Gouravgilhare/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Gouravgilhare/DSA/tree/master/0494-target-sum) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Gouravgilhare/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gouravgilhare/DSA/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Gouravgilhare/DSA/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Gouravgilhare/DSA/tree/master/0463-island-perimeter) |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Gouravgilhare/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gouravgilhare/DSA/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gouravgilhare/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Gouravgilhare/DSA/tree/master/0463-island-perimeter) |
@@ -949,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Gouravgilhare/DSA/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gouravgilhare/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Data Stream
 |  |
@@ -1056,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Gouravgilhare/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gouravgilhare/DSA/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Gouravgilhare/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Line Sweep
 |  |
@@ -1068,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Gouravgilhare/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Gouravgilhare/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
