@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Gouravgilhare/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Gouravgilhare/DSA/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Gouravgilhare/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0587-erect-the-fence](https://github.com/Gouravgilhare/DSA/tree/master/0587-erect-the-fence) |
 | [0611-valid-triangle-number](https://github.com/Gouravgilhare/DSA/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Gouravgilhare/DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Gouravgilhare/DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Gouravgilhare/DSA/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Gouravgilhare/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0523-continuous-subarray-sum](https://github.com/Gouravgilhare/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0587-erect-the-fence](https://github.com/Gouravgilhare/DSA/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravgilhare/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Gouravgilhare/DSA/tree/master/0830-largest-triangle-area) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gouravgilhare/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Gouravgilhare/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gouravgilhare/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0756-pyramid-transition-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Gouravgilhare/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gouravgilhare/DSA/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Gouravgilhare/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Gouravgilhare/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gouravgilhare/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Gouravgilhare/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
