@@ -1,34 +1,38 @@
-#define vi vector<int>
-#define vvi vector<vector<int>>
-
 class Solution {
 public:
-    bool canFinish(int N, vector<vector<int>>& p) {
-        vvi adj(N);
-         vi indegree(N);
+    bool isCycleDfs(int src, vector<bool>&vis, vector<bool>&recPath, vector<vector<int>>&edges){
+        vis[src]=true;
+        recPath[src] = true;
+
+        for(int i = 0; i< edges.size(); i++){
+            int u = edges[i][0];
+            int v = edges[i][1];
         
-        for(auto &it : p ){
-            adj[it[0]].push_back(it[1]);
-            indegree[it[1]]++;
-        }
-        queue<int>q;
-        for(int i=0; i<N; i++){
-            if(indegree[i]==0)
-                q.push(i);
-        }
-        
-        vi topo;
-        while(!q.empty()){
-            int node  =q.front();
-            q.pop();
-            topo.push_back(node);
-            for(auto &a: adj[node]){
-                indegree[a]--;
-                if(indegree[a]==0)
-                    q.push(a);
+            if(u == src){
+                if(!vis[v]){
+                    if(isCycleDfs(v,vis,recPath,edges)){
+                        return true;
+                    }
+                }else if(recPath[v]){
+                    return true;
+                }
             }
         }
-        
-        return (topo.size()==N);
+
+        recPath[src] = false;
+        return false;
+    }
+    bool canFinish(int n, vector<vector<int>>& edges) {
+        vector<bool>vis(n,false);
+        vector<bool>recPath(n, false);
+
+        for(int i = 0 ; i< n ; i++){
+            if(!vis[i])
+                if(isCycleDfs(i, vis, recPath , edges))
+                    return false;
+        }
+
+        return true;
+
     }
 };
