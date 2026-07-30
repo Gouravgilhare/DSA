@@ -1,80 +1,95 @@
-#define vi vector<int>
-#define vvi vector<vector<int>>
-
 class Solution {
-  private:
-    vi topoSort(int V, vvi&adj, vi&indegree){
-        queue<int>q;
-        for(int i=0; i< V; i++){
-            if(indegree[i]==0)
-                q.push(i);
-        }
-        vi topo;
-        while(!q.empty()){
-            int node =q.front();
-            q.pop();
-            topo.push_back(node);
-            for(auto a: adj[node])
-            {
-                indegree[a]--;
-                if(indegree[a]==0)
-                    q.push(a);
+  public:
+  
+    bool isCycle(int src , vector<bool>&vis, vector<bool>&pathRec, vector<vector<int>>&adjs ){
+        vis[src]=true;
+        pathRec[src] = true;
+        
+        for (int v : adjs[src]) {
+            if (!vis[v]) {
+                if (isCycle(v, vis, pathRec, adjs))
+                    return true;
+            }
+            else if (pathRec[v]) {
+                return true;
             }
         }
         
-        
-        return topo;
-        
+        pathRec[src]=false;
+        return false;
     }
     
-  public:
+    //toposort
+        
+    void topoSort(int src , vector<bool>&vis, stack<int>&st, vector<vector<int>>&adjs){
+        vis[src]= true;
+        
+       for (int v : adjs[src]) {
+            if (!vis[v]) {
+                topoSort(v, vis, st, adjs);
+            }
+        }
+        st.push(src);
+        
+    }
+        
     string findOrder(vector<string> &words) {
         // code here
-        unordered_set<char>st;
-        for(auto &w : words){
-            for(char c : w){
-                st.insert(c);
+        int n = words.size();
+        vector<vector<int>>adjs(26);
+        vector<bool>present(26,false);
+        
+        for(auto word : words){
+            for(auto c : word){
+                present[c-'a']=true;
             }
         }
         
+        for(int i = 0; i< n-1; i++){
+
+            string s1 = words[i];
+            string s2 = words[i+1];
         
-        int N=26;
-        int K = st.size();
-        vvi adj(N);
-        vi indegree(N);
-        for(int i=0; i<words.size()-1;i++){
-            string a =words[i];
-            string b =words[i+1];
-            int len = min(a.size(), b.size());
-            bool found = false;
-            for(int k= 0 ; k<len;k++){
-                if(a[k]!=b[k]){
-                    adj[a[k]-'a'].push_back(b[k]-'a');
-                    indegree[b[k]-'a']++;
-                    found=true;
+            int minSize = min(s1.size(), s2.size());
+            if (s1.size() > s2.size() && s1.substr(0, minSize) == s2)
+                return "";
+                
+            for (int j = 0; j < minSize; j++) {
+                if (s1[j] != s2[j]) {
+                    adjs[s1[j]-'a'].push_back(s2[j]-'a');
                     break;
                 }
             }
-            if(!found && a.size() > b.size()) return "";
             
-        }       
-        
-        
-        vector<int> topo = topoSort(N,adj,indegree);
-        if(topo.size() < N) return "";
-        string ans ="";
-        for(auto x : topo){
-            char c = x+'a';
-            if(st.count(c)){
-                ans += c;
-            }
-            
-            // ans += char( c+'a');
         }
         
+        vector<bool>vis(26, false);
+        vector<bool>pathRec(26,false);
         
+        //checking cyclic dependency
+        for(int i = 0 ; i< 26; i++){
+           if ( present[i] && !vis[i]) {
+                if (isCycle(i, vis, pathRec, adjs))
+                    return "";
+            }
+        }
+        
+        stack<int>st;
+        vis.assign(26, false);
+        for(int i = 0 ; i< 26; i++){
+            if(present[i] && !vis[i]){
+                topoSort(i, vis, st,adjs);
+            }
+        }
+        
+        string ans="";
+        while(!st.empty()){
+            int  c = st.top();
+            st.pop();
+            
+            ans += (char)(c + 'a');
+        }
         
         return ans;
-        
     }
 };
