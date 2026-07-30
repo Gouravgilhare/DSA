@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Gouravgilhare/DSA/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/Gouravgilhare/DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gouravgilhare/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/Gouravgilhare/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Gouravgilhare/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Gouravgilhare/DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Gouravgilhare/DSA/tree/master/0319-bulb-switcher) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Gouravgilhare/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Gouravgilhare/DSA/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/Gouravgilhare/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Gouravgilhare/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Gouravgilhare/DSA/tree/master/0455-assign-cookies) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Gouravgilhare/DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gouravgilhare/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Gouravgilhare/DSA/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gouravgilhare/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Gouravgilhare/DSA/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Gouravgilhare/DSA/tree/master/0383-ransom-note) |
