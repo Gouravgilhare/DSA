@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Gouravgilhare/DSA/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/Gouravgilhare/DSA/tree/master/0630-course-schedule-iii) |
+| [0743-network-delay-time](https://github.com/Gouravgilhare/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Gouravgilhare/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Gouravgilhare/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Gouravgilhare/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Gouravgilhare/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Gouravgilhare/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Gouravgilhare/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Gouravgilhare/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Gouravgilhare/DSA/tree/master/0743-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
@@ -1109,12 +1112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Gouravgilhare/DSA/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Gouravgilhare/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Gouravgilhare/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Gouravgilhare/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Gouravgilhare/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Gouravgilhare/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Gouravgilhare/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Gouravgilhare/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
