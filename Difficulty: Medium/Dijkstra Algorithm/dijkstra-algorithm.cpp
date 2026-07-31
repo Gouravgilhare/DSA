@@ -1,48 +1,42 @@
-#define vi vector<int>
-#define vvi vector<vector<int>>
 class Solution {
   public:
     vector<int> dijkstra(int V, vector<vector<int>> &edges, int src) {
         // Code here
-        vector<vector<pair<int,int>>> adj(V);
-        for(auto e : edges){
+        vector<vector<pair<int,int>>>adj(V);
+        
+        for(auto a : edges ){
             
-            int u = e[0];
-            int v = e[1];
-            int w = e[2];
-            
-            adj[u].push_back({v,w});
-            adj[v].push_back({u,w});
-            
+            //src               //node   //dist
+            adj[a[0]].push_back({a[1], a[2]});
+            adj[a[1]].push_back({a[0], a[2]});
         }
         
-        vi dist(V, 1e9);
-        dist[src] = 0;
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>>pq;
+        //pq
+        priority_queue<pair<int,int>,vector<pair<int,int>>, greater<pair<int,int>>>pq;
+        vector<int>dist(V , 1e9);
+        dist[src]=0;
+        pq.push({0,src});
         
-        pq.push({0, src});
         
         while(!pq.empty()){
+            int node =  pq.top().second;
             int dis = pq.top().first;
-            int node = pq.top().second;
             pq.pop();
-            
             if(dis > dist[node]) continue;
             
-            for(auto it : adj[node]){
+            
+            for(auto it: adj[node]){
                 int edgeWeight = it.second;
                 int adjNode = it.first;
                 
-                if(dis + edgeWeight < dist[adjNode]){
-                    dist[adjNode] = dis + edgeWeight;
+                if(dis+edgeWeight < dist[adjNode]){
+                    dist[adjNode] = dis+edgeWeight;
                     pq.push({dist[adjNode], adjNode});
                 }
-                
             }
-            
         }
-        return dist;
         
+        return dist;
         
     }
 };
