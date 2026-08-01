@@ -1,47 +1,85 @@
 class Solution {
 public:
-    void bfs(int i, int j, vector<vector<char>>&grid, vector<vector<int>>&vis){
-        int n = grid.size() , m = grid[0].size();
-        queue<pair<int,int>>q;
-        q.push({i,j});
-        vis[i][j]=1;
+    vector<int>par,rank;
 
-        int r[] = {-1,1,0,0};
-        int c[] = {0,0,-1,1};
+    //find
+    int find(int x){
+        if(par[x] == x) return x;
 
-        while(!q.empty()){
-
-            auto [row, col] = q.front();
-            q.pop();
-            vis[row][col] = 1;
-
-            for(int i = 0 ; i< 4; i++){
-                int l = row+r[i];
-                int k = col + c[i];
-                if(l>-1 && l <n && k > -1 && k < m && !vis[l][k] && grid[l][k] == '1'){
-                    q.push({l,k});
-                    vis[l][k]=1;
-                }
-            }    
-        }
-        
+        return par[x] = find(par[x]);
     }
+
+    bool unionByRank(int a, int b){
+        int parA = find(a);
+        int parB = find(b);
+
+        if(parA  == parB) return false;
+
+        if(rank[parA] == rank[parB]){
+            par[parB] = parA;
+            rank[parA]++;
+        }else if(rank[parA] < rank[parB]){
+            par[parA]= parB;
+        }else{
+            par[parB] = parA;
+        }
+
+        return true;
+    }
+
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
 
-        int island = 0;
-        vector<vector<int>>vis(n, vector<int>(m,0));
-        for(int i = 0 ; i< n ; i++){
-            for(int j = 0; j< m; j++){
+        par.resize(n*m);
+        rank.resize(n*m, 0);
 
-                if(grid[i][j] == '1' && !vis[i][j]){
+        for(int i = 0 ; i< n*m ; i++){
+            par[i]=i;
+        }    
+
+        int island = 0;
+
+        for(int i = 0; i<n ; i++){
+            for(int j = 0 ; j< m ; j++){
+                if(grid[i][j] == '1'){
                     island++;
-                    bfs(i,j,grid,vis);
                 }
             }
         }
 
-        return island;
+        int dx[] = {1,-1, 0, 0 };
+        int dy[] = {0, 0, 1, -1 };
+
+        for(int i = 0; i< n ; i++){
+            for(int j = 0 ; j< m ; j++){
+
+                if(grid[i][j]=='0') continue;
+
+                int node = i*m + j;
+
+                for(int k = 0 ; k< 4; k++){
+
+                    int nr = i + dx[k];
+                    int nc = j + dy[k];
+                
+                    if(nr<0 || nr>= n || nc<0 || nc>= m) continue;
+
+                    if(grid[nr][nc]=='0'){
+                        continue;
+                    }
+
+                    int adjNode = nr*m + nc;
+
+                    if(unionByRank(node, adjNode)){
+                        island--;
+                    }
+
+                }
+
+            }
+        }
+            return island;
+
     }
 };
