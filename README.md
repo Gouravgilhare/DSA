@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gouravgilhare/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Gouravgilhare/DSA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Gouravgilhare/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0542-01-matrix) |
 | [0587-erect-the-fence](https://github.com/Gouravgilhare/DSA/tree/master/0587-erect-the-fence) |
 | [0611-valid-triangle-number](https://github.com/Gouravgilhare/DSA/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Gouravgilhare/DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Gouravgilhare/DSA/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Gouravgilhare/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Gouravgilhare/DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Gouravgilhare/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Gouravgilhare/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Gouravgilhare/DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gouravgilhare/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Gouravgilhare/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gouravgilhare/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Gouravgilhare/DSA/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Gouravgilhare/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Gouravgilhare/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gouravgilhare/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0662-maximum-width-of-binary-tree) |
