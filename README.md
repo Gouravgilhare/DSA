@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Gouravgilhare/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gouravgilhare/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/Gouravgilhare/DSA/tree/master/0904-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gouravgilhare/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Gouravgilhare/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gouravgilhare/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gouravgilhare/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Gouravgilhare/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gouravgilhare/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gouravgilhare/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gouravgilhare/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1136,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Gouravgilhare/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Gouravgilhare/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gouravgilhare/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Gouravgilhare/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Gouravgilhare/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -1161,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Gouravgilhare/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Gouravgilhare/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Gouravgilhare/DSA/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gouravgilhare/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/Gouravgilhare/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Brainteaser
 |  |
@@ -1170,4 +1174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/Gouravgilhare/DSA/tree/master/0837-new-21-game) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gouravgilhare/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
