@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Gouravgilhare/DSA/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Gouravgilhare/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Gouravgilhare/DSA/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Gouravgilhare/DSA/tree/master/0752-open-the-lock) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Gouravgilhare/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Gouravgilhare/DSA/tree/master/0830-largest-triangle-area) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gouravgilhare/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Gouravgilhare/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Gouravgilhare/DSA/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Gouravgilhare/DSA/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Gouravgilhare/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Gouravgilhare/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Gouravgilhare/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gouravgilhare/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Gouravgilhare/DSA/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Gouravgilhare/DSA/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Gouravgilhare/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gouravgilhare/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Gouravgilhare/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gouravgilhare/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Gouravgilhare/DSA/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Gouravgilhare/DSA/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Gouravgilhare/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
@@ -1233,4 +1237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Gouravgilhare/DSA/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/Gouravgilhare/DSA/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
