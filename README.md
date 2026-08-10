@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Gouravgilhare/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Gouravgilhare/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Gouravgilhare/DSA/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Gouravgilhare/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Gouravgilhare/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Gouravgilhare/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Gouravgilhare/DSA/tree/master/0139-word-break) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Gouravgilhare/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gouravgilhare/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Gouravgilhare/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Gouravgilhare/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gouravgilhare/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Gouravgilhare/DSA/tree/master/0139-word-break) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gouravgilhare/DSA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Gouravgilhare/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Gouravgilhare/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Gouravgilhare/DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Gouravgilhare/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -1226,4 +1229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Gouravgilhare/DSA/tree/master/0785-is-graph-bipartite) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Gouravgilhare/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
