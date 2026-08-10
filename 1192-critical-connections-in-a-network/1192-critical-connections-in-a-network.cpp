@@ -1,49 +1,49 @@
 class Solution {
 public:
-    vector<int> disc, low;
+    int time;
     vector<vector<int>> ans;
-    int timer = 0;
+    vector<int>low,dt;
+    void dfs(int u , int parU,  vector<vector<int>>&adj){
+        dt[u] = low[u] = ++time;
+        for(int  i = 0 ; i < adj[u].size(); i++){
+            int v = adj[u][i];
+            
+            if(dt[v] == -1){
+                dfs(v,u,adj);
 
-    void dfs(int node, int parent, vector<vector<int>>& adj) {
-        disc[node] = low[node] = timer++;
+                //updateLow
+                low[u] = min(low[u], low[v]);
 
-        for (int neigh : adj[node]) {
-            if (neigh == parent)
-                continue;
-
-            if (disc[neigh] == -1) {
-                dfs(neigh, node, adj);
-
-                low[node] = min(low[node], low[neigh]);
-
-                // Bridge condition
-                if (low[neigh] > disc[node]) {
-                    ans.push_back({node, neigh});
+                //bridge
+                if(low[v] > dt[u]){
+                    ans.push_back({u,v});
                 }
-            } else {
-                // Back edge
-                low[node] = min(low[node], disc[neigh]);
+            }else if(v != parU){
+                low[u] = min( low[u], dt[v]);
             }
         }
     }
-
     vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {
+        vector<vector<int>>adj(n);
 
-        vector<vector<int>> adj(n);
-
-        for (auto &edge : connections) {
-            int u = edge[0];
-            int v = edge[1];
+        for(int i = 0 ; i< connections.size(); i++){
+            int u = connections[i][0];
+            int v = connections[i][1];
 
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
 
-        disc.assign(n, -1);
-        low.assign(n, -1);
+        time = 0;
+        low.resize(n);
+        dt.resize(n, -1);
 
-        dfs(0, -1, adj);
-
+        for(int i = 0 ; i<n ; i++){
+            if(dt[i]==-1){
+                dfs(i,-1,adj);
+            }
+        }
+        
         return ans;
     }
 };
