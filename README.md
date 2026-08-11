@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Gouravgilhare/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Gouravgilhare/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Gouravgilhare/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Gouravgilhare/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Gouravgilhare/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gouravgilhare/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gouravgilhare/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Gouravgilhare/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Gouravgilhare/DSA/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Gouravgilhare/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Gouravgilhare/DSA/tree/master/0463-island-perimeter) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Gouravgilhare/DSA/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gouravgilhare/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/Gouravgilhare/DSA/tree/master/0463-island-perimeter) |
@@ -1151,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Gouravgilhare/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Gouravgilhare/DSA/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Gouravgilhare/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Gouravgilhare/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Gouravgilhare/DSA/tree/master/0743-network-delay-time) |
@@ -1164,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Gouravgilhare/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gouravgilhare/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Gouravgilhare/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1180,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Gouravgilhare/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gouravgilhare/DSA/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Gouravgilhare/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Gouravgilhare/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Gouravgilhare/DSA/tree/master/0695-max-area-of-island) |
@@ -1238,4 +1245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Gouravgilhare/DSA/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Gouravgilhare/DSA/tree/master/0752-open-the-lock) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
