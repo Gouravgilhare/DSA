@@ -1151,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Gouravgilhare/DSA/tree/master/0178-rank-scores) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Gouravgilhare/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Graph Theory
 |  |
 | ------- |
