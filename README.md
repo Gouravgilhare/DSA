@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Gouravgilhare/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Gouravgilhare/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Gouravgilhare/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Gouravgilhare/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Gouravgilhare/DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gouravgilhare/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gouravgilhare/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Gouravgilhare/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0383-ransom-note](https://github.com/Gouravgilhare/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gouravgilhare/DSA/tree/master/0239-sliding-window-maximum) |
+| [0332-reconstruct-itinerary](https://github.com/Gouravgilhare/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0407-trapping-rain-water-ii](https://github.com/Gouravgilhare/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/Gouravgilhare/DSA/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/Gouravgilhare/DSA/tree/master/0743-network-delay-time) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gouravgilhare/DSA/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Gouravgilhare/DSA/tree/master/0274-h-index) |
+| [0332-reconstruct-itinerary](https://github.com/Gouravgilhare/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0455-assign-cookies](https://github.com/Gouravgilhare/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Gouravgilhare/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravgilhare/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gouravgilhare/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/Gouravgilhare/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Gouravgilhare/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Gouravgilhare/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gouravgilhare/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -1162,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Gouravgilhare/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Gouravgilhare/DSA/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Gouravgilhare/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Gouravgilhare/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Gouravgilhare/DSA/tree/master/0684-redundant-connection) |
@@ -1260,4 +1266,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Gouravgilhare/DSA/tree/master/0399-evaluate-division) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Gouravgilhare/DSA/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Gouravgilhare/DSA/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Gouravgilhare/DSA/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
