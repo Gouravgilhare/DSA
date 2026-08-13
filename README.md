@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Gouravgilhare/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Gouravgilhare/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Gouravgilhare/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Gouravgilhare/DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Gouravgilhare/DSA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Gouravgilhare/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Gouravgilhare/DSA/tree/master/0202-happy-number) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Gouravgilhare/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Gouravgilhare/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Gouravgilhare/DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Gouravgilhare/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Gouravgilhare/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Gouravgilhare/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Gouravgilhare/DSA/tree/master/0115-distinct-subsequences) |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gouravgilhare/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Gouravgilhare/DSA/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gouravgilhare/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gouravgilhare/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
