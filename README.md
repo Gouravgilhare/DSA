@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Gouravgilhare/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gouravgilhare/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/Gouravgilhare/DSA/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/Gouravgilhare/DSA/tree/master/2029-stone-game-ix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Gouravgilhare/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Gouravgilhare/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gouravgilhare/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Gouravgilhare/DSA/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Gouravgilhare/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Gouravgilhare/DSA/tree/master/1925-count-square-sum-triples) |
+| [2029-stone-game-ix](https://github.com/Gouravgilhare/DSA/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Gouravgilhare/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Gouravgilhare/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Gouravgilhare/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gouravgilhare/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Gouravgilhare/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gouravgilhare/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/Gouravgilhare/DSA/tree/master/2029-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Gouravgilhare/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Gouravgilhare/DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gouravgilhare/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Gouravgilhare/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Gouravgilhare/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Gouravgilhare/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Gouravgilhare/DSA/tree/master/2029-stone-game-ix) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Gouravgilhare/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Gouravgilhare/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gouravgilhare/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1293,4 +1297,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Gouravgilhare/DSA/tree/master/0332-reconstruct-itinerary) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Gouravgilhare/DSA/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Gouravgilhare/DSA/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Gouravgilhare/DSA/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Gouravgilhare/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
