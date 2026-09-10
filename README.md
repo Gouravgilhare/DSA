@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Gouravgilhare/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Gouravgilhare/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Gouravgilhare/DSA/tree/master/2092-find-all-people-with-secret) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gouravgilhare/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/Gouravgilhare/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Gouravgilhare/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Gouravgilhare/DSA/tree/master/3863-power-grid-maintenance) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gouravgilhare/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gouravgilhare/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Gouravgilhare/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
@@ -1163,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gouravgilhare/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gouravgilhare/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gouravgilhare/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
