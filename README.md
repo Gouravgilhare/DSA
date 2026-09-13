@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Gouravgilhare/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Gouravgilhare/DSA/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/Gouravgilhare/DSA/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Gouravgilhare/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/Gouravgilhare/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/Gouravgilhare/DSA/tree/master/0904-fruit-into-baskets) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Gouravgilhare/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Gouravgilhare/DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Gouravgilhare/DSA/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Gouravgilhare/DSA/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Gouravgilhare/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Gouravgilhare/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gouravgilhare/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
