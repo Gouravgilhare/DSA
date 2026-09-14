@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/Gouravgilhare/DSA/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravgilhare/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Gouravgilhare/DSA/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Gouravgilhare/DSA/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/Gouravgilhare/DSA/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/Gouravgilhare/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Gouravgilhare/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Gouravgilhare/DSA/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/Gouravgilhare/DSA/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/Gouravgilhare/DSA/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Gouravgilhare/DSA/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gouravgilhare/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gouravgilhare/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Gouravgilhare/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
