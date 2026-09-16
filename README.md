@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Gouravgilhare/DSA/tree/master/1390-four-divisors) |
 | [1447-simplified-fractions](https://github.com/Gouravgilhare/DSA/tree/master/1447-simplified-fractions) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Gouravgilhare/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gouravgilhare/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Gouravgilhare/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Gouravgilhare/DSA/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Gouravgilhare/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Gouravgilhare/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gouravgilhare/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Gouravgilhare/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gouravgilhare/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gouravgilhare/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Gouravgilhare/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Gouravgilhare/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Gouravgilhare/DSA/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gouravgilhare/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Gouravgilhare/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Gouravgilhare/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Gouravgilhare/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Gouravgilhare/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gouravgilhare/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/Gouravgilhare/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gouravgilhare/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1856-maximum-subarray-min-product](https://github.com/Gouravgilhare/DSA/tree/master/1856-maximum-subarray-min-product) |
 | [1895-largest-magic-square](https://github.com/Gouravgilhare/DSA/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Gouravgilhare/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
