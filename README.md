@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/Gouravgilhare/DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gouravgilhare/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Gouravgilhare/DSA/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Gouravgilhare/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1447-simplified-fractions](https://github.com/Gouravgilhare/DSA/tree/master/1447-simplified-fractions) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Gouravgilhare/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gouravgilhare/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Gouravgilhare/DSA/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gouravgilhare/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gouravgilhare/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Gouravgilhare/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Gouravgilhare/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Gouravgilhare/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gouravgilhare/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
